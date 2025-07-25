@@ -44,6 +44,5 @@ git clone https://github.com/sahil-arsss/RockPaperScissor
 .git
 
 ## 🎨 Game Preview
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/df528181-e4e9-4197-8cac-e438658a445f" />
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/6221492e-d87c-462b-ac9d-1267512cbf3b" />
+![alt text](image.png)
 
