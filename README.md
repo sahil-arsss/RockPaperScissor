@@ -37,12 +37,14 @@ The game interface features:
 - Show a history of previous rounds.
 - Implement a "best of 5" mode.
 
+
 ## 💻 Installation
 No installation required. Simply clone the repository or download the files:
 ```bash
 git clone https://github.com/sahil-arsss/RockPaperScissor
 .git
-
+```
 ## 🎨 Game Preview
-![alt text](image.png)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0c57aa21-cf0e-4958-9c31-1e3ac7942995" />
+
 
